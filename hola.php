@@ -6,4 +6,6 @@
  * Time: 12:52
  */
 
-echo 'hola a todos como estan'
+echo 'hola a todos como estan';
+
+?>
