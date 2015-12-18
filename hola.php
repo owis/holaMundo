@@ -8,6 +8,4 @@
 
 echo 'hola a todos como estan';
 
-echo 'estamos terrible de pulentos!!!';
-
 ?>
